@@ -1,0 +1,79 @@
+/* selector universal */
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+nav {
+    background-color: plum;
+}
+
+body {
+    background-color: rgb(242, 200, 250);
+    margin: 260px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.texto-inicial {
+    padding: 10px;
+    text-align: center;
+    color: darkmagenta;
+    font-weight: bold;
+
+}
+
+p {
+    text-align: justify;
+    padding: 10px;
+}
+
+.espacio li{
+    padding: 10px;
+}
+
+a { 
+    text-decoration: none;
+    color: darkmagenta;
+    font-weight: bold;
+}
+
+footer {
+    
+    display: flex;
+    justify-content: flex-end;
+    background-color: plum;
+    margin-top: auto;
+}
+
+/* Contacto */
+#logo {
+    width: 105px;
+}
+
+#navegacion {
+    display: inline;
+}
+
+.formulario {
+    border: 10px solid white;
+    width: 600px;
+    height: auto;
+    /* padding espacio entre el margen y la img o contenido */
+    padding: 15px;
+    /* margin separación entre elementos */
+    margin: 15px;
+    text-align: center;
+    
+
+}
+
+    
+
+
+
+
+
